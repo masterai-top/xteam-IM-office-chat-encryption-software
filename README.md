@@ -1,7 +1,7 @@
 # xteam-IM office/chat software
 IM office/chat software；IM办公/聊天软件加密软件源代码出售、线上成熟稳定产品，支持多重信息加密，可以随时从数据库删除聊天信息，支持电脑端，网页端，安卓端，ios端
 
-支持多重信息加密，可以随时从数据库删除聊天信息，支持电脑端，网页端，安卓端，ios端，产品运行四五年了，支持多家公司聊天办公，可以建立不同团队，团队下面可以建立不同聊天或者办公群.支持文本，图片等及时发送，语音聊天，视频聊天等。有意购买者请联系：联系Telegram：@xuzongbin001或E-mail：taibaibaba1314@gmail.com
+支持多重信息加密，可以随时从数据库删除聊天信息，支持电脑端，网页端，安卓端，ios端，产品运行四五年了，支持多家公司聊天办公，可以建立不同团队，团队下面可以建立不同聊天或者办公群.支持文本，图片等及时发送，语音聊天，视频聊天等。有意购买者请联系：联系Telegram：@xuzongbin001或E-mail：masterai918@gmail.com
 
 Office chat software encryption software code for sale, xteam online mature and stable product, supports multiple information encryption, chat information can be deleted from the database at any time, supports computer, web, Android, ios, the product has been running for four or five years, support Multiple companies can chat and work, and different teams can be established. Different chat or office groups can be established under the team. It supports timely sending of texts, pictures, etc., voice chat, video chat, etc. Interested parties: @alibaba401
 <img width="268" alt="20" src="https://github.com/user-attachments/assets/097bc0f6-73b2-4425-b402-35f5599c4b31">
